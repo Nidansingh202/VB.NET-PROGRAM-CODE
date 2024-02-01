@@ -1,0 +1,9 @@
+odule mydirectives
+#Const age = True
+Sub Main()
+   #If age Then
+      Console.WriteLine("You are welcome to the Robotics Club")
+   #End If
+   Console.ReadKey()
+End Sub
+End Module
